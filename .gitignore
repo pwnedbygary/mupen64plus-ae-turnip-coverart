@@ -1,0 +1,10 @@
+# Written by scripts/rebuild.sh
+/src/
+/tmp/
+/logs/
+/artnames.tsv
+/entries.tsv
+/matches.tsv
+/plan.tsv
+/unmatched.tsv
+/report.md
